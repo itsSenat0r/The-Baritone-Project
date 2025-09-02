@@ -9,4 +9,4 @@
 Требуемые модули:
 - discord.py
 - asyncio
-
+- psutil
